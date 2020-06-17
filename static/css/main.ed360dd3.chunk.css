@@ -1,0 +1,2 @@
+.tabs{font-family:Arial,Helvetica,sans-serif;max-width:700px;margin:0 auto}.tabs__buttons{list-style-type:none;display:flex;padding-left:0;border-bottom:1px solid silver}.tabs__button{border:none;background-color:inherit;cursor:pointer;width:100px;padding:15px;outline:none;color:#6b6b94;transform:translateY(2px)}.tabs__button--active,.tabs__button:focus,.tabs__button:hover{border:1px solid grey;border-bottom:none;border-radius:5px 5px 0 0;color:#000}.tabs__button--active{background-color:#fff}
+/*# sourceMappingURL=main.ed360dd3.chunk.css.map */
